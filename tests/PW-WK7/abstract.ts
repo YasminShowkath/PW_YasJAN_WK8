@@ -10,7 +10,7 @@ abstract class test {
 
             abstract create():void
             abstract edit():void 
-}   
+}   // example for abstract class
 
 class test2 extends test{
     create() {
